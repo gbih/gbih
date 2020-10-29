@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hey there 
+
+- 🙀 I am developer 
+- 🇯🇵 I live and work in Japan/日本
+- ☸️ My current focus is Kubernetes
+- 👯 I’m looking to collaborate on Cloud Native/Kubernetes/Go projects
+- 🗻 I like to hike and ski down mountains
+
+## Get in touch
+
+Reach out via 
+[Twitter at @georgebaptista](https://twitter.com/georgebaptista) 
+[Omame.com](https://www.omame.com)
+[LinkedIn](https://www.linkedin.com/in/george-baptista-73a588146/).
 
 <!--
 **gbih/gbih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
