@@ -1,4 +1,4 @@
-### Hey there 
+## Hey there, I'm George
 
 - 🙀 I am developer 
 - 🇯🇵 I live and work in Japan/日本
@@ -9,11 +9,9 @@
 ## Get in touch
 
 Reach out via 
-[Twitter at @georgebaptista](https://twitter.com/georgebaptista) 
-
-[Omame.com](https://www.omame.com)
-
-[LinkedIn](https://www.linkedin.com/in/george-baptista-73a588146/).
+- [Twitter at @georgebaptista](https://twitter.com/georgebaptista) 
+- [Omame.com](https://www.omame.com)
+- [LinkedIn](https://www.linkedin.com/in/george-baptista-73a588146/).
 
 <!--
 **gbih/gbih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
