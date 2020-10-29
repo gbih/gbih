@@ -10,7 +10,9 @@
 
 Reach out via 
 [Twitter at @georgebaptista](https://twitter.com/georgebaptista) 
+
 [Omame.com](https://www.omame.com)
+
 [LinkedIn](https://www.linkedin.com/in/george-baptista-73a588146/).
 
 <!--
