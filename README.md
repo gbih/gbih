@@ -3,7 +3,7 @@
 - 🙀 I am developer 
 - 🇯🇵 I live and work in Japan/日本
 - 💾 backend -> frontend -> backend
-- ☸️ My current focus is Kubernetes
+- ☸️ My current focus is Kubernetes, Go
 - 👯 I’m looking to collaborate on Cloud Native/Kubernetes/Go projects
 - 🗻 I like to hike and ski down mountains
 
