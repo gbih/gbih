@@ -3,8 +3,7 @@
 - 🙀 I am developer 
 - 🇯🇵 I live and work in Japan/日本
 - 💾 backend -> frontend -> backend
-- ☸️ My current interests are data-analytics, Python, Kubernetes, Go, meteorology
-- 👯 I’m looking to collaborate on data-analytics/Kubernetes/Web-app projects
+- ☸️ My current interest is TensorFlow Extended
 - 🗻 I like to hike and ski down mountains
 
 ## Get in touch
