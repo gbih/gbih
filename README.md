@@ -2,8 +2,8 @@
 
 - 🙀 I am developer 
 - 🇯🇵 I live and work in Japan/日本
-- 💾 backend -> frontend -> backend
-- ☸️ My current interest is TensorFlow Extended
+- 💾 backend -> frontend -> data science/data engineering
+- ☸️ My current interest is TensorFlow, TFX, MLOps, data engineering
 - 🗻 I like to hike and ski down mountains
 
 ## Get in touch
