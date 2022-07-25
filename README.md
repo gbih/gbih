@@ -2,7 +2,7 @@
 
 - 🙀 I am developer 
 - 🇯🇵 I live and work in Japan/日本
-- 💾 backend -> frontend -> data science/data engineering
+- 💾 backend -> frontend -> data science/data engineering/machine learning
 - ☸️ My current interest is TensorFlow, TFX, MLOps, data engineering
 - 🗻 I like to hike and ski down mountains
 
