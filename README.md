@@ -1,9 +1,9 @@
 ## Hey there, I'm George
 
-- 🙀 I am developer 
+- 🙀 I'm a developer 
 - 🇯🇵 I live and work in Japan/日本
 - 💾 backend -> frontend -> data science/data engineering/machine learning
-- ☸️ My current interest is TensorFlow, TFX, MLOps, data engineering
+- ☸️ My current interest is TensorFlow, TFX, MLOps, data engineering, Kubernetes
 - 🗻 I like to hike and ski down mountains
 
 ## Get in touch
