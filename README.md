@@ -2,8 +2,7 @@
 
 - 🙀 I'm a developer 
 - 🇯🇵 I live and work in Japan/日本
-- 💾 data science/data engineering/machine learning
-- ☸️ My current interest is NLP, TFX, MLOps, data engineering, Kubernetes
+- ☸️ My current interests are NLP / deep learning / data engineering
 - 🗻 I like to hike and ski down mountains
 
 ## Get in touch
