@@ -1,7 +1,7 @@
 ## Hey there, I'm George
 
 - 🙀 I'm a software developer 
-- 🇯🇵 I live and work in Japan/日本
+- 🇯🇵 I live and work in Niigata, Japan/新潟県、日本
 - ☸️ My current interests are NLP / deep learning / data engineering
 - 🗻 I like to hike and ski down mountains
 
